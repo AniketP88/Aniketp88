@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h3 align="center">Full stack developer , Web developer</h3>
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on react project
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **node.js**
 
 - 💬 Ask me about **react**
 
